@@ -1,1 +1,2 @@
-# boy-and-tree
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
